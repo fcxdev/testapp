@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Bethel App.js</code> and save to reload.
+          <code> Bethel App.js</code> and save to reload.
         </p>
         <a
           className="App-link"
